@@ -1,0 +1,7 @@
+﻿  project_1.cpp
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_1\project_1\project_1.cpp(40,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_1\project_1\project_1.cpp(63,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_1\project_1\project_1.cpp(133,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_1\project_1\project_1.cpp(134,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_1\project_1\project_1.cpp(135,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  project_1.vcxproj -> D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_1\Debug\project_1.exe

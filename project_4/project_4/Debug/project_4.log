@@ -1,0 +1,5 @@
+﻿  project_4.cpp
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_4\project_4\project_4.cpp(69,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_4\project_4\project_4.cpp(77,10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_4\project_4\project_4.cpp(78,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  project_4.vcxproj -> D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_4\Debug\project_4.exe

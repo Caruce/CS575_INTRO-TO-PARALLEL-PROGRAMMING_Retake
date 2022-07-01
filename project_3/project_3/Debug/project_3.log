@@ -1,0 +1,9 @@
+﻿  project_3.cpp
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(50,23): error C3861: 'rand_r': identifier not found
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(80,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(80,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(81,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(81,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(162,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(163,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\GRADUATE_OSU\2021_Spring\CS575_INTRO TO PARALLEL PROGRAMMING_Retake\project_3\project_3\project_3.cpp(165,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
